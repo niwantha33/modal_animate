@@ -16,12 +16,12 @@
 }
 
 body {
-    background: url('./starter/images/j.png');
+    background: url(https://github.com/niwantha33/modal_animate/blob/main/starter/images/j.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    /* Add the blur effect */
-   
+
+    /* Add the blur effect */   
     height: 100vh;
     position: relative;
     /* background-color: black; */
